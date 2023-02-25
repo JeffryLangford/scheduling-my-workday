@@ -10,6 +10,10 @@ https://jeffrylangford.github.io/scheduling-my-workday/
 
 ## Usage Information
 
+
+![alt text](assets/images/screenshot.jpg)
+
+
 Write any desired information in the boxes for each hour then click save when done. You can edit whenever you'd like by just overwriting or adding then clicking save again. After the day ends, you can hit the "Clear Schedule" button.
 
 ---
