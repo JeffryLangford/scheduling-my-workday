@@ -2,6 +2,9 @@
 var dateTimeEl = document.getElementById("currentDay");
 var today = new Date();
 dateTimeEl.innerHTML = today.toLocaleDateString('en-US', {
+    month: "long",
+    day: "numeric",
+    year: "numeric",
     hour: "numeric",
     minute: "numeric",
     hour12: true });
